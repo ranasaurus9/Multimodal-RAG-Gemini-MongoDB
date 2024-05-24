@@ -9,6 +9,7 @@ This notebook provides a guide to building a document Q&A engine using multimoda
 4. Using a text query as input, search for contexual answers using both text and images
 
 References
+
 https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/overview
 
 https://www.mongodb.com/products/platform/atlas-vector-search
